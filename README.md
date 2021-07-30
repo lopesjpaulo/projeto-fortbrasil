@@ -86,3 +86,7 @@ vendor/bin/phpunit --filter=createEstabelecimento
 vendor/bin/phpunit --filter=getEstabelecimento
 vendor/bin/phpunit --filter=deleteEstabelecimento
 ```
+
+## Demonstração
+
+Dentro da pasta imagem, foram colocadas algumas imagens de requisições para os endpoints, usando o postman, para exemplificar a parte da api.
